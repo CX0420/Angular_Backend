@@ -3,7 +3,7 @@
 2. .Net version 7.0
 
 
-**Create a database table by following SQL: **
+**Create a database table by following SQL:**
 ```
 CREATE TABLE Customer(
     CustomerId INT UNSIGNED PRIMARY KEY AUTO_INCREMENT COMMENT 'Customer Id',
