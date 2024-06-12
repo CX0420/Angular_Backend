@@ -38,7 +38,7 @@ app.UseAuthorization();
 // Enable CORS
 app.UseCors(options =>
 {
-    options.AllowAnyOrigin(); // You can restrict this to specific origins if needed
+    options.AllowAnyOrigin();
     options.AllowAnyMethod();
     options.AllowAnyHeader();
 });

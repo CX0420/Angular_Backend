@@ -28,10 +28,12 @@
     <None Remove="Models\" />
     <None Remove="Dao\" />
     <None Remove="Services\" />
+    <None Remove="Context\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Dao\" />
     <Folder Include="Services\" />
+    <Folder Include="Context\" />
   </ItemGroup>
 </Project>
