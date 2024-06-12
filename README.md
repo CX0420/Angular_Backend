@@ -24,3 +24,9 @@ CREATE TABLE Customer(
    "DefaultConnection": "Server=yourServer;Database=yourDatabaseName;User Id=yourUserId;Password=yourPassword;"
    ```
 3. Click on run, that's it!
+
+**High Level Vertical Slice**
+* User Interface - By using Controller
+* Business Logic - By using Service
+* Data Access Layer - By using DAO
+* Organized code followed by module
